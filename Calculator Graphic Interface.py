@@ -6,7 +6,7 @@ value_b = 0
 operation = "addition"
 result = 0
 
-#functions 
+#functions (add, substract,multiply, divide, delete)
 
 def add ():
     global value_a, value_b
